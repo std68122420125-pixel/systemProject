@@ -15,7 +15,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>icon/gaming.png</normaloff>icon/gaming.png</iconset>
+    <normaloff>../icon/gaming.png</normaloff>../icon/gaming.png</iconset>
   </property>
   <widget class="QGroupBox" name="show_all">
    <property name="geometry">
@@ -342,7 +342,7 @@ color: rgb(255, 255, 255);</string>
        </property>
        <property name="icon">
         <iconset>
-         <normaloff>icon/add.png</normaloff>icon/add.png</iconset>
+         <normaloff>../icon/add.png</normaloff>../icon/add.png</iconset>
        </property>
       </widget>
      </item>
@@ -359,7 +359,7 @@ color: rgb(255, 255, 255);</string>
        </property>
        <property name="icon">
         <iconset>
-         <normaloff>icon/loading-arrow.png</normaloff>icon/loading-arrow.png</iconset>
+         <normaloff>../icon/loading-arrow.png</normaloff>../icon/loading-arrow.png</iconset>
        </property>
       </widget>
      </item>
@@ -376,7 +376,7 @@ color: rgb(255, 255, 255);</string>
        </property>
        <property name="icon">
         <iconset>
-         <normaloff>icon/delete.png</normaloff>icon/delete.png</iconset>
+         <normaloff>../icon/delete.png</normaloff>../icon/delete.png</iconset>
        </property>
       </widget>
      </item>
@@ -393,7 +393,7 @@ color: rgb(255, 255, 255);</string>
        </property>
        <property name="icon">
         <iconset>
-         <normaloff>icon/brush.png</normaloff>icon/brush.png</iconset>
+         <normaloff>../icon/brush.png</normaloff>../icon/brush.png</iconset>
        </property>
       </widget>
      </item>
@@ -459,7 +459,7 @@ color: rgb(255, 255, 255);</string>
       </property>
       <property name="icon">
        <iconset>
-        <normaloff>icon/search.png</normaloff>icon/search.png</iconset>
+        <normaloff>../icon/search.png</normaloff>../icon/search.png</iconset>
       </property>
      </widget>
     </item>
